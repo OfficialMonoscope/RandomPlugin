@@ -1,0 +1,19 @@
+name: myPlugin
+main: Random\MyPlugin\main
+version: 0.0.1
+api: 3.1.0
+description: Random PLugin
+author: Monoscope
+
+commands:
+  random1:
+    description: "maxxie is cool"
+    usage: "/text1"
+
+  random2:
+    description: "I am cool"
+    usage: "/text2"
+
+  random3:
+    description: "Chicken Nuggets"
+    usage: "/text3"
